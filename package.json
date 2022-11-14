@@ -1,6 +1,6 @@
 {
   "name": "@trixis/di",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple dependency injection for TypeScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
